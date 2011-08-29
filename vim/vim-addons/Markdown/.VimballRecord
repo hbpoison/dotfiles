@@ -1,0 +1,1 @@
+markdown-1.2.2.vba: call delete('/Users/Poison/Dropbox/Dev/configs/dotfiles/vim/vim-addons/Markdown/ftdetect/markdown.vim')|call delete('/Users/Poison/Dropbox/Dev/configs/dotfiles/vim/vim-addons/Markdown/snippets/markdown.snippets')|call delete('/Users/Poison/Dropbox/Dev/configs/dotfiles/vim/vim-addons/Markdown/syntax/markdown.vim')
