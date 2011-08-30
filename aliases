@@ -2,6 +2,7 @@
 alias todo='$EDITOR ~/.todo'
 
 # Unix
+alias cuc="bundle exec cucumber -r features"
 alias tlf="tail -f"
 alias ln='ln -v'
 alias mkdir='mkdir -p'
