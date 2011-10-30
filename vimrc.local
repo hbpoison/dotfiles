@@ -101,6 +101,8 @@ noremap <S-tab> :bp<cr>
 let NERDTreeShowBookmarks=1
 let NERDChristmasTree=1
 silent! nmap <silent> <Leader>p :NERDTreeToggle<cr>
+nnoremap <silent> <C-f> :NERDTreeFind<cr>
+
 
 " AutoClose
 let g:AutoClosePairs = {'(': ')', '{': '}', '[': ']', '"': '"', "'": "'", '#{': '}'}
