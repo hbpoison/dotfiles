@@ -64,5 +64,5 @@ setopt CORRECT CORRECT_ALL
 # Enable extended globbing
 setopt EXTENDED_GLOB
 
-# RVM
-[[ -s '/Users/Poison/.rvm/scripts/rvm' ]] && source '/Users/Poison/.rvm/scripts/rvm'
+# rbenv
+eval "$(rbenv init -)"
