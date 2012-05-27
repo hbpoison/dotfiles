@@ -40,7 +40,7 @@ set expandtab
 set list listchars=tab:»·,trail:·
 
 " Local config
-if filereadable("~/.vimrc.local")
+if filereadable($HOME . "/.vimrc.local")
   source ~/.vimrc.local
 endif
 
